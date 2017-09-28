@@ -1,4 +1,7 @@
-//Solution goes in Sources
+/*
+Korman Chen
+9/28/17 
+*/
 
 class Squares
 {
